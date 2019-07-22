@@ -1,3 +1,8 @@
+# Eclipse
+.project
+.classpath
+.settings
+
 .DS_Store
 /common/target/
 /server/target/
